@@ -7,16 +7,16 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/터미널활용/[1] 터미널과 활용.html",
-    "href": "posts/터미널활용/[1] 터미널과 활용.html",
-    "title": "- 1. 터미널과 활용",
+    "objectID": "posts/터미널활용/[1] 터미널과 활용 (1).html",
+    "href": "posts/터미널활용/[1] 터미널과 활용 (1).html",
+    "title": "my title",
     "section": "",
     "text": "(base) root@76d004f3ae03:~/studyfile/github1/class# dir 2023-python1year dashlast datatoolbox_24 professEnergy sub\n- 어떤 폴더가 있었는지 표시 (옛날에 마우스가 없었음)\n(base) root@76d004f3ae03:~/studyfile/github1/class# mkdir asdf\n- mkdir : 새로운 폴더 생성 (base) root@76d004f3ae03:~/studyfile/github1/class# cd asdf \n(base) root@76d004f3ae03:~/studyfile/github1/class/asdf# cd ..  - cd : change directory 로 디렉토리 움직이기.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncmd 는 CLI 의 일종\n\n\n\n\n1.png\n\n\n- CLI 에서의 python 을 키고 껐을 때의 반응\n\n\n\n\n\n\n\ndir\n\n&lt;function dir&gt;\n\n\n\nmkdir\n\nmkdir: missing operand\nTry 'mkdir --help' for more information.\n\n\n\n!dir\n# `!` 를 씀으로 터미널에서 사용하겠다는 의미 \n\n1.png  README.md  [1]\\ 터미널과\\ 활용.ipynb  asdf\n\n\n\n!mkdir asdf\n\nmkdir: cannot create directory ‘asdf’: File exists\n\n\n\n# 모든 GUI 명령어(현재컴픁)들은 CLI 에 대응된다\n\n\n\n\n\n\n\n\n- terminal 을 주는 것 : 모든 컴퓨터의 권한을 주는 것  - 조심히 다뤄야한다.\n\n\n\n\n\n\n\n\n깃 다운로드: https://git-scm.com/downloads (完)  토큰생성 및 복사: https://github.com/settings/tokens (完) \n\n\n\n\n\n\n\n\n2.png"
   },
   {
-    "objectID": "posts/터미널활용/[1] 터미널과 활용.html#원격컴퓨터",
-    "href": "posts/터미널활용/[1] 터미널과 활용.html#원격컴퓨터",
-    "title": "- 1. 터미널과 활용",
+    "objectID": "posts/터미널활용/[1] 터미널과 활용 (1).html#원격컴퓨터",
+    "href": "posts/터미널활용/[1] 터미널과 활용 (1).html#원격컴퓨터",
+    "title": "my title",
     "section": "",
     "text": "- terminal 을 주는 것 : 모든 컴퓨터의 권한을 주는 것  - 조심히 다뤄야한다.\n\n\n\n\n\n\n\n\n깃 다운로드: https://git-scm.com/downloads (完)  토큰생성 및 복사: https://github.com/settings/tokens (完) \n\n\n\n\n\n\n\n\n2.png"
   },
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "grajun",
     "section": "",
-    "text": "- 1. 터미널과 활용\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 2, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 30, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "my title\n\n\n\n\n\n\n\n\n\n\n\nJan 2, 2024\n\n\n전준한\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 2, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 30, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
